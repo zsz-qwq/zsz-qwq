@@ -2,15 +2,19 @@
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats
 
-![zsz-qwq's GitHub stats](https://stats.justsong.cn/api/github-stats?username=zsz-qwq&show_icons=true&bg_color=45,ff0000,ffff00&title_color=0000ff&text_color=000000&icon_color=0000ff&hide_border=true)
+![zsz-qwq's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zsz-qwq&theme=radical&bg_color=00FF7F&title_color=00FFFF&text_color=00FFFF&icon_color=FF8C00&hide_border=true)
 
 ---
 
 ### 🔧 Most Used Languages
 
-![Top Languages](https://stats.justsong.cn/api/top-langs?username=zsz-qwq&layout=compact&bg_color=45,ff0000,ffff00&title_color=0000ff&text_color=000000&icon_color=0000ff&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zsz-qwq&theme=radical&bg_color=00FF7F&title_color=00FFFF&text_color=00FFFF&icon_color=FF8C00&hide_border=true)
+
+</div>
 
 ---
 
